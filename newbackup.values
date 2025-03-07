@@ -43,7 +43,7 @@ services:
     installationEnvironment: KUBERNETES
 
 database:
-  url: "jdbc:postgresql://10.99.60.135:5432/mydatabase"
+  url: "jdbc:postgresql://34.228.237.132:5432/mydatabase"
   enterpriseServerUsername: "admin"
   enterpriseServerPassword: "admin"
   scanningResourceUsername: "admin"
